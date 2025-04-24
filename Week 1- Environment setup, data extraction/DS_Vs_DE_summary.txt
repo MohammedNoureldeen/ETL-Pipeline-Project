@@ -1,0 +1,47 @@
+Comparison of Data Engineer (DE) vs. Data Scientist (DS) Roles
+
+Data Engineer (DE)
+
+Responsibilities:
+Ensures data quality and accessibility for downstream users (e.g., data analysts, data scientists, ML engineers).
+Designs, builds, and maintains data pipelines to collect, process, and store data efficiently.
+Manages data integration from multiple sources (databases, APIs, third-party systems, etc.).
+
+Implements ETL processes:
+Extract: Pulls raw data from various sources.
+Transform: Cleans, restructures, and formats data to meet business or analytical needs (e.g., handling missing values, standardizing formats).
+Load: Stores transformed data in a data warehouse, database, or other storage systems for easy access.
+Optimizes data infrastructure for scalability and performance.
+
+Key Skills:
+Proficiency in programming ( Python, Java, Scala)
+Expertise in SQL and database management.
+Knowledge of ETL tools (e.g., Apache Airflow, Talend) and cloud platforms (e.g., AWS, GCP, Azure).
+Understanding of data modeling and schema design.
+
+Output:
+Clean, structured, and accessible data ready for analysis or modeling.
+
+
+Data Scientist (DS)
+
+Responsibilities:
+Begins work after the DE provides clean, structured data.
+Analyzes data to extract insights and identify trends or patterns.
+Applies statistical models and machine learning algorithms to solve business problems,
+
+such as:
+Predicting customer churn (e.g., identifying customers likely to leave).
+Forecasting sales or customer purchasing behavior.
+Segmenting customers for targeted marketing.
+Communicates findings through visualizations, reports, or presentations to stakeholders.
+Iteratively refines models based on performance and new data.
+
+Key Skills:
+Expertise in statistical analysis and machine learning (e.g., regression, clustering, neural networks).
+Proficiency in tools like Python (Pandas, Scikit-learn), R, or specialized platforms (e.g., TensorFlow, PyTorch).
+Data visualization skills (e.g., Tableau, Power BI, Matplotlib).
+Strong domain knowledge to align models with business objectives.
+
+Output:
+Actionable insights, predictive models, or recommendations to drive business decisions.
