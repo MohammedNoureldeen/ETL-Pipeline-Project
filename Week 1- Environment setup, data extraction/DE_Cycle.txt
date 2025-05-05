@@ -1,0 +1,36 @@
+# 🛠️ Data Engineer Lifecycle
+
+A Data Engineer is responsible for designing, building, and maintaining the systems that collect, store, and process data efficiently. Here's a high-level overview of their lifecycle:
+
+## 1. **Data Collection**
+- Ingest data from various sources (APIs, databases, files, logs, etc.)
+- Use tools like Apache NiFi, Kafka, or custom scripts
+
+## 2. **Data Storage**
+- Store raw or processed data in data lakes or data warehouses
+- Technologies: Amazon S3, Hadoop HDFS, PostgreSQL, BigQuery, Redshift
+
+## 3. **Data Cleaning & Transformation**
+- Remove duplicates, handle missing values, convert formats
+- Use ETL (Extract, Transform, Load) or ELT pipelines
+- Tools: Apache Spark, dbt, Pandas, Airflow
+
+## 4. **Data Orchestration**
+- Schedule and monitor workflows
+- Tools: Apache Airflow, Prefect, Luigi
+
+## 5. **Data Modeling**
+- Design schemas for efficient querying
+- Use dimensional modeling (star/snowflake schemas)
+
+## 6. **Data Serving**
+- Make data available for analysts, data scientists, and dashboards
+- Tools: Looker, Power BI, Tableau, APIs
+
+## 7. **Monitoring & Maintenance**
+- Monitor data pipelines and system health
+- Handle failures and optimize performance
+
+## 🔁 Repeat & Improve
+- Continuously test, improve, and scale the data systems.
+
